@@ -10,8 +10,9 @@ I am a full-stack software engineer, SRE, architect, and DevOps enthusiast. I sp
 I have been working with some of the top commercial companies, which is fantastic, but I can't share the majority of my code here. Even so, I have been sharing what I could.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=camposdelima&theme=dark&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=camposdelima&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=16)
-![Waka](https://github-readme-stats.vercel.app/api/wakatime?username=camposdelima&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=16)
+
+![Waka](https://github-readme-stats.vercel.app/api/wakatime?username=camposdelima&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=10&custom_title=Most+Recently+Used+Language)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=camposdelima&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=10&custom_title=Most+Committed+Language)
 <!--
 **camposdelima/camposdelima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

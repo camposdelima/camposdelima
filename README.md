@@ -7,7 +7,7 @@
 
 I am a full-stack software engineer, SRE, architect, and DevOps enthusiast. I spend a lot of time programming, configuring, hacking, and creating tech things.
 
-I have been working with some of the top commercial companies, which is fantastic, but I can't share the majority of my code here. Even so, I have been sharing what I could.
+I have been working with some of the top commercial companies, which is fantastic, but I can't share the majority of my code here. Even so, I have been sharing all I can.
 
 ![Recently](https://github-readme-stats.vercel.app/api/wakatime?username=camposdelima&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=10&custom_title=Most+Recently+Used+Language)
 

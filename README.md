@@ -1,9 +1,7 @@
 ### Hi there, I'm Cristiano Campos!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cristianocamposlima/)
-[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/cristiano-campos)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/camposdelima)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 I am a full-stack software engineer, SRE, architect, and DevOps enthusiast. I spend a lot of time programming, configuring, hacking, and creating tech things.
 

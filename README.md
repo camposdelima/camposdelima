@@ -5,6 +5,7 @@
 
 I am a full-stack software engineer, SRE, architect, and DevOps enthusiast. I spend a lot of time programming, configuring, hacking, and creating tech things.
 
+<!--
 ![Recently](https://github-readme-stats.vercel.app/api/wakatime?username=camposdelima&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=10&custom_title=Most+Recently+Used+Language)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=camposdelima&theme=dark&hide_border=true)
